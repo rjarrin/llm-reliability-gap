@@ -4,7 +4,7 @@
 
 This repository contains the complete replication package, including the automated evaluation pipeline and the full 1195-response dataset, for our study on the technical reliability of Large Language Models (LLMs) in C programming education. 
 
-Our audit evaluates four 2026 frontier models—**GPT-OSS 120B**, **Llama 3.3 70B Versatile**, **Moonshot Kimi K2 0905**, and **Qwen 3 32B** - across a gradient of complexity (Pointers, Dynamic Memory, and Data Structures) using both static structural analysis and dynamic runtime instrumentation.
+Our audit evaluates four 2026 frontier models - **GPT-OSS 120B**, **Llama 3.3 70B Versatile**, **Moonshot Kimi K2 0905**, and **Qwen 3 32B** - across a gradient of complexity (Pointers, Dynamic Memory, and Data Structures) using both static structural analysis and dynamic runtime instrumentation.
 
 ---
 
