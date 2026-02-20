@@ -25,7 +25,7 @@ To run the dynamic auditing pipeline locally, ensure your Linux environment (or 
 * `clang-format` (>= 14.0.0)
 * Python 3.10+ (`pandas`, `matplotlib`, `seaborn`, `tqdm`, `lizard`)
 
-* ---
+---
 
-## 📝 License
+## License
 This dataset and code are released under an anonymized MIT License for double-blind peer review.
