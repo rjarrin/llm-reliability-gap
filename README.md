@@ -16,3 +16,16 @@ For every iteration, the dataset captures:
 * **Dynamic Metrics:** Compilation Success Rate (CSR), Valgrind memory safety status (leaks/invalid access), UndefinedBehaviorSanitizer (UBSan) triggers, and logical hangs (timeout execution).
 
 ---
+
+## Environment Requirements
+To run the dynamic auditing pipeline locally, ensure your Linux environment (or WSL) has the following installed:
+* `gcc` (>= 11.4.0) 
+* `valgrind` (>= 3.18.1) 
+* `cppcheck` (>= 2.7) 
+* `clang-format` (>= 14.0.0)
+* Python 3.10+ (`pandas`, `matplotlib`, `seaborn`, `tqdm`, `lizard`)
+
+* ---
+
+## 📝 License
+This dataset and code are released under an anonymized MIT License for double-blind peer review.
